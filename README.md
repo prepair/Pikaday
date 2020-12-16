@@ -5,6 +5,7 @@ Pikaday
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
 
+## NOTE: optional usage of moment related code got removed
 
 ### A refreshing JavaScript Datepicker
 
