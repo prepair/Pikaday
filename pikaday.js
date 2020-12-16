@@ -27,7 +27,7 @@
     /**
      * feature detection and helper functions
      */
-    hasEventListeners = !!window.addEventListener,
+    var hasEventListeners = !!window.addEventListener,
 
     document = window.document,
 
